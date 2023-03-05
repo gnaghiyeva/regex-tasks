@@ -1,0 +1,28 @@
+Pseudo code task1
+Başla
+repeat [+]994[-, ]+(50|51|55|70|77|99|10|11|18|20|21|22|23|24|25|26|36)-[0-9]{3}-[0-9]{2}-[0-9]{2}"
+string nomre daxil et
+for(i to matches.count)
+Nomre duzgun deyil sozunu ekrana yaz
+Bitir
+-------------------------------------------------------------------------------------
+
+Pseudo code task2
+Basla
+repeat ([0-9]{1}[-. /]?[0-9]{2}[- ./]?[0-9]{4})|([0-9]{2}[-. /]?[0-9]{2}[- ./]?[0-9]{4})|([0-9]{4}[-. /]?[0-9]{2}[- ./]?[0-9]{2})|([0-9]{2}[-. /]?[0-9]{2}[- ./]?[0-9]{2})|([0-9]{1}[-. /]?[0-9]{2}[- ./]?[0-9]{2})|([0-9]{1}[-. /]?[0-9]{2}[- ./]?[0-9]{4})|([0-9]{2}[-. /]?[0-9]{1}[- ./]?[0-9]{4})
+
+string date daxil et
+for(i to matches.count)
+ayin tarixi duzgun deyil sozunu ekrana yaz
+Bitir
+
+-------------------------------------------------------------------------------------
+
+Pseudo code task3
+Basla 
+repeat [\w\W]+\w@code.edu.az
+
+string email daxil et
+for(i to matches.count)
+email duzgun deyil sozunu ekrana yaz
+Bitir

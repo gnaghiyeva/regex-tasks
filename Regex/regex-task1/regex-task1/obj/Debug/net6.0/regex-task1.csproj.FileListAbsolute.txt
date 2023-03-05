@@ -1,0 +1,15 @@
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Regex\regex-task1\regex-task1\bin\Debug\net6.0\regex-task1.exe
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Regex\regex-task1\regex-task1\bin\Debug\net6.0\regex-task1.deps.json
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Regex\regex-task1\regex-task1\bin\Debug\net6.0\regex-task1.runtimeconfig.json
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Regex\regex-task1\regex-task1\bin\Debug\net6.0\regex-task1.dll
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Regex\regex-task1\regex-task1\bin\Debug\net6.0\regex-task1.pdb
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Regex\regex-task1\regex-task1\obj\Debug\net6.0\regex-task1.csproj.AssemblyReference.cache
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Regex\regex-task1\regex-task1\obj\Debug\net6.0\regex-task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Regex\regex-task1\regex-task1\obj\Debug\net6.0\regex-task1.AssemblyInfoInputs.cache
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Regex\regex-task1\regex-task1\obj\Debug\net6.0\regex-task1.AssemblyInfo.cs
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Regex\regex-task1\regex-task1\obj\Debug\net6.0\regex-task1.csproj.CoreCompileInputs.cache
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Regex\regex-task1\regex-task1\obj\Debug\net6.0\regex-task1.dll
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Regex\regex-task1\regex-task1\obj\Debug\net6.0\refint\regex-task1.dll
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Regex\regex-task1\regex-task1\obj\Debug\net6.0\regex-task1.pdb
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Regex\regex-task1\regex-task1\obj\Debug\net6.0\regex-task1.genruntimeconfig.cache
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Regex\regex-task1\regex-task1\obj\Debug\net6.0\ref\regex-task1.dll
